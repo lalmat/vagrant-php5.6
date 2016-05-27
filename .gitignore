@@ -1,0 +1,4 @@
+.vagrant
+vagrant/config
+!vagrant/config/.gitkeep
+www
